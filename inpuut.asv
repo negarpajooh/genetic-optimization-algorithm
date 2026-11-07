@@ -1,0 +1,13 @@
+Max_x1=input('plz enter Max x1');
+Min_x1=input('plz enter Min x1');
+
+Max_x2=input('plz enter Max x2');
+Min_x2=input('plz enter Min x2');
+
+Max_y1=input('plz enter Max y1');
+Mi_y1=input('plz enter Max y1');
+
+Max_y2=input('plz enter Min y2');
+
+
+
